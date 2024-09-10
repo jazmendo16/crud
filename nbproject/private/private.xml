@@ -3,11 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/yeymi/OneDrive/Escritorio/java/CRUD-JAVA/src/modelo/Persona.java</file>
-            <file>file:/C:/Users/yeymi/OneDrive/Escritorio/java/CRUD-JAVA/src/modelo/Conexion.java</file>
-            <file>file:/C:/Users/yeymi/OneDrive/Escritorio/java/CRUD-JAVA/src/vista/frm_cliente.java</file>
-            <file>file:/C:/Users/yeymi/OneDrive/Escritorio/java/CRUD-JAVA/src/vista/main.java</file>
-            <file>file:/C:/Users/yeymi/OneDrive/Escritorio/java/CRUD-JAVA/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/yeymi/OneDrive/Escritorio/conexion/crud/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/yeymi/OneDrive/Escritorio/conexion/crud/src/vista/frm_cliente.java</file>
         </group>
     </open-files>
 </project-private>
